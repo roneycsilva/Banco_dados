@@ -150,6 +150,7 @@ Este guia oferece uma abordagem detalhada sobre a configuração do MySQL e sua 
 Ao seguir este guia, buscamos não apenas fornecer uma estrutura técnica sólida, mas também promover a segurança e confiabilidade do seu sistema, garantindo uma experiência educacional de alta qualidade para todos os usuários da plataforma.
 
 >**Referência**
+
 Como modelo de linguagem da OpenAI, eu não tenho acesso direto a uma base de dados de referências específicas ou a uma lista de fontes externas. No entanto, posso sugerir o uso de referências genéricas que são comuns ao discutir tecnologias como o MySQL e boas práticas de desenvolvimento. Certifique-se de substituir esses exemplos pelos materiais específicos que você consultou ao criar o seu documento.
 
 **Exemplo de Referências:**
