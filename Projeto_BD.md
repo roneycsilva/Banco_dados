@@ -169,5 +169,3 @@ Como modelo de linguagem da OpenAI, eu não tenho acesso direto a uma base de da
 
 5. **Artigos sobre Boas Práticas de Desenvolvimento:**
    - Fontes como blogs de desenvolvedores, artigos no [Medium](https://medium.com/), [Stack Overflow](https://stackoverflow.com/), e [Dev.to](https://dev.to/) podem oferecer insights valiosos sobre boas práticas de desenvolvimento.
-
-Lembre-se de citar as fontes específicas que você consultou ao criar o seu documento, garantindo transparência e credibilidade ao seu trabalho.
