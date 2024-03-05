@@ -31,7 +31,7 @@ Isso facilita a integração com o backend da plataforma, permitindo o desenvolv
 
 >3. **Motivos para Escolha do MySQL**
 
-3. Utilização Específica no Contexto da Plataforma:
+3.1 Utilização Específica no Contexto da Plataforma:
 
 a. Armazenamento de Vídeos Aulas:
 
