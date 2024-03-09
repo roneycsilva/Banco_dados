@@ -128,7 +128,7 @@ for curso in cursos:
 **Escolha do MySQL como Sistema de Gerenciamento de Banco de Dados para a Plataforma de Estudos**
 
 A seleção do MySQL como nosso sistema de gerenciamento de banco de dados para a plataforma de estudos foi cuidadosamente ponderada, considerando 
-critérios fundamentais que moldam a eficácia e o desempenho do nosso sistema. Dentre os fatores determinantes, destacam-se a confiabilidade comprovada, a capacidade de resposta, a flexibilidade e o suporte vibrante da comunidade.
+critérios fundamentais que moldam a eficácia e o desempenho do nosso sistema. Dentre os fatores determinantes, destacam-se a confiabilidade comprovada, a capacidade de resposta, a flexibilidade e o suporte vibrante da comunidade..
 
 **1. Confiabilidade e Desempenho:**
 O MySQL é reconhecido por sua robustez e estabilidade comprovadas em ambientes diversos. A escolha deste SGBD visa assegurar uma base sólida e confiável 
